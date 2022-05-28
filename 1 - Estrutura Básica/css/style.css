@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(90, 189, 228);
+}
 #title, .subtitle, .post_title{
     color: rgb(52, 52, 53);
 }
@@ -5,4 +8,17 @@
 .post_title{
     font-size: 16px;
     font-style: italic;
+}
+
+.cor_verde{
+    color:green;
+}
+.cor_red_gmail{
+    color: rgb(158, 2, 2);
+}
+.cor_azul_linkedin{
+    color: rgb(0, 51, 128);
+}
+.cor_github{
+    color:rgb(39, 38, 38);
 }
