@@ -9,7 +9,12 @@ body{
     font-size: 16px;
     font-style: italic;
 }
-
+.post{
+    background-color: rgb(199, 200, 233);
+    width: 1280x;
+    padding: 10px;
+    border: solid 3px rgb(108, 110, 238);
+}
 .cor_verde{
     color:green;
 }
