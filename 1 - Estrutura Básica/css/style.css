@@ -4,16 +4,26 @@ body{
 #title, .subtitle, .post_title{
     color: rgb(52, 52, 53);
 }
-
+.photo{
+    border-radius: 50%;
+}
 .post_title{
     font-size: 16px;
     font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
 }
 .post{
     background-color: rgb(199, 200, 233);
     width: 1280x;
-    padding: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
     border: solid 3px rgb(108, 110, 238);
+    border-radius: 5px;
+    
+}
+.post_img{
+    margin-bottom: 15px;
 }
 .cor_verde{
     color:green;
